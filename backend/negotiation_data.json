@@ -1,0 +1,469 @@
+{
+    "00780e61-f3af-4626-a62d-71a4ea1892c5": {
+        "session_id": "00780e61-f3af-4626-a62d-71a4ea1892c5",
+        "role": "job_seeker",
+        "job_title": "software engineer",
+        "seeker_range": {
+            "min": 100000.0,
+            "target": 140000.0,
+            "max": 154000.0
+        },
+        "recruiter_range": {
+            "min": 112160.22947122653,
+            "max": 140200.28683903316
+        }
+    },
+    "16e66c12-0d8e-4650-985d-41705d4bf32c": {
+        "session_id": "16e66c12-0d8e-4650-985d-41705d4bf32c",
+        "role": "job_seeker",
+        "job_title": "software engineer",
+        "seeker_range": {
+            "min": 100000.0,
+            "target": 140000.0,
+            "max": 154000.0
+        },
+        "recruiter_range": {
+            "min": 80278.02676074677,
+            "max": 100347.53345093345
+        }
+    },
+    "23f2a2d5-c366-4876-b1a3-b93287ed0586": {
+        "session_id": "23f2a2d5-c366-4876-b1a3-b93287ed0586",
+        "role": "job_seeker",
+        "job_title": "Software engineer",
+        "seeker_range": {
+            "min": 100000.0,
+            "target": 130000.0,
+            "max": 143000.0
+        },
+        "recruiter_range": {
+            "min": 88729.44412698026,
+            "max": 110911.80515872533
+        },
+        "facts": {
+            "candidate": [],
+            "recruiter": []
+        }
+    },
+    "2898368d-8326-4df8-8e44-de4ad336ae2b": {
+        "session_id": "2898368d-8326-4df8-8e44-de4ad336ae2b",
+        "role": "job_seeker",
+        "job_title": "software engineer",
+        "seeker_range": {
+            "min": 103000.0,
+            "target": 130000.0,
+            "max": 143000.0
+        },
+        "recruiter_range": {
+            "min": 91431.4317449217,
+            "max": 114289.28968115212
+        },
+        "facts": {
+            "candidate": [],
+            "recruiter": []
+        }
+    },
+    "1837620a-a9c2-4db9-b237-2e0606783f16": {
+        "session_id": "1837620a-a9c2-4db9-b237-2e0606783f16",
+        "role": "job_seeker",
+        "job_title": "software",
+        "seeker_range": {
+            "min": 100000.0,
+            "target": 130000.0,
+            "max": 143000.0
+        },
+        "recruiter_range": {
+            "min": 90252.81768629573,
+            "max": 112816.02210786966
+        },
+        "facts": {
+            "job_seeker": [
+                "The job seeker is inquiring about the yearly salary for the position.",
+                "The job seeker is hoping for a compensation of around 150k.",
+                "The job seeker has a competing offer from another company for $145,000.",
+                "The job seeker is inquiring about the salary for the position."
+            ],
+            "recruiter": [
+                "- The company is offering a position in software.",
+                "- The salary offered by the company depends on the candidate's experience, skills, and qualifications.",
+                "- The company generally offers a competitive salary that is in line with industry standards for someone with the right qualifications.",
+                "- The recruiter is asking for more information about the candidate's qualifications and salary expectations.",
+                "1. The company provides a competitive compensation package that includes salary, health insurance, retirement plans, and performance-based bonuses.",
+                "2. The company aligns their salary offers with a candidate's qualifications, experience, and the industry standard.",
+                "3. The recruiter is asking for more details about the candidate's qualifications and experience to make a fair assessment and arrive at a mutually beneficial agreement.",
+                "- The company aims to provide a comprehensive compensation package that meets market standards and recognizes the unique skills and experience of the candidate.",
+                "- The company operates within certain parameters when offering a compensation package.",
+                "- The company's compensation package includes a base salary, a robust benefits package, health insurance, retirement plans, and performance-based bonuses.",
+                "- The company needs more details about the candidate's qualifications and experience to make a fair assessment and structure a compensation package.",
+                "- The company offers a competitive compensation package that includes a base salary, health insurance, retirement plans, and performance-based bonuses.",
+                "- The company's salary offers are aligned with a candidate's qualifications, experience, and industry standards.",
+                "- The recruiter is asking for more details about the candidate's qualifications and experience to provide a more accurate offer.",
+                "- The company structures its compensation package to acknowledge a candidate's unique skills and experiences."
+            ]
+        }
+    },
+    "afb41e50-67e7-44e6-bb64-f14e2511fa4c": {
+        "session_id": "afb41e50-67e7-44e6-bb64-f14e2511fa4c",
+        "role": "job_seeker",
+        "job_title": "software engineer",
+        "seeker_range": {
+            "min": 130000.0,
+            "target": 145000.0,
+            "max": 159500.0
+        },
+        "recruiter_range": {
+            "min": 118676.97393971967,
+            "max": 148346.21742464957
+        },
+        "facts": {
+            "job_seeker": [
+                "The job seeker is inquiring about the salary for the position."
+            ],
+            "recruiter": [
+                "1. The company is offering a salary range between $118,676.97 and $148,346.21 for the software engineer position.",
+                "2. The salary range is determined based on the level of expertise and years of experience in the field.",
+                "3. The company offers a comprehensive benefits package, which includes health, dental and vision insurance.",
+                "4. The company provides a 401(k) plan with company match.",
+                "5. The company offers generous paid time off.",
+                "6. The company provides continuous learning opportunities.",
+                "7. The company promotes a great work-life balance.",
+                "8. The recruiter is interested in knowing the job seeker's current salary expectations.",
+                "9. The recruiter wants to know what other factors the job seeker is considering in their job search."
+            ]
+        }
+    },
+    "a06ba50c-81cc-4b85-8cf2-e5ca4dc162de": {
+        "session_id": "a06ba50c-81cc-4b85-8cf2-e5ca4dc162de",
+        "role": "job_seeker",
+        "job_title": "software engineer",
+        "seeker_range": {
+            "min": 70000.0,
+            "target": 130000.0,
+            "max": 143000.0
+        },
+        "recruiter_range": {
+            "min": 119004.50208049224,
+            "max": 148755.6276006153
+        },
+        "facts": {
+            "job_seeker": [
+                "The job seeker is inquiring about the salary for the position.",
+                "The job seeker is expecting a compensation of around 140,000."
+            ],
+            "recruiter": [
+                "- The company offers competitive salaries that are tailored to the expertise, qualifications, and experience of the candidate.",
+                "- The total compensation package includes a variety of benefits such as health insurance, retirement contributions, and performance-based bonuses.",
+                "- The recruiter is asking for the candidate's salary expectations and specific benefit preferences to help craft a fair and suitable offer.",
+                "- The recruiter mentions that the job seeker's salary expectations could be met given their qualifications and experience.",
+                "- The company's total compensation is not just about the base salary.",
+                "- The company offers a comprehensive benefits package.",
+                "- This benefits package includes health insurance, retirement contributions, and performance-based bonuses.",
+                "- The recruiter believes that these elements of the compensation package add significant value beyond the base salary alone."
+            ]
+        },
+        "messages": [
+            {
+                "role": "job_seeker",
+                "content": "what salary can you offer?"
+            },
+            {
+                "role": "recruiter",
+                "content": "Thank you for your inquiry regarding the salary for this software engineer position. While I can't disclose the exact budget range, I can assure you that our company offers competitive salaries tailored to the expertise, qualifications, and experience of the candidate. \n\nIn addition to the base salary, our total compensation package includes a variety of benefits such as health insurance, retirement contributions, and performance-based bonuses. Could you please share your salary expectations and any specific benefit preferences? This will help us in crafting a fair and suitable offer for you."
+            },
+            {
+                "role": "job_seeker",
+                "content": "I am looking around 140000"
+            },
+            {
+                "role": "recruiter",
+                "content": "Thank you for sharing your salary expectations. Given your qualifications and experience, a salary around that range could certainly be part of our discussion. It's important to note that our total compensation is not just about the base salary. We also offer a comprehensive benefits package, including health insurance, retirement contributions, and performance-based bonuses. \n\nWe believe that these elements of the compensation package add significant value beyond the base salary alone. Would you be interested in learning more about these benefits? I believe they could address your overall compensation expectations."
+            }
+        ]
+    },
+    "98c6659e-9add-477a-a338-37aefa584ebb": {
+        "session_id": "98c6659e-9add-477a-a338-37aefa584ebb",
+        "role": "job_seeker",
+        "job_title": "software engineer",
+        "seeker_range": {
+            "min": 70000.0,
+            "target": 130000.0,
+            "max": 143000.0
+        },
+        "recruiter_range": {
+            "min": 57801.822257738786,
+            "max": 72252.27782217348
+        },
+        "facts": {
+            "job_seeker": [
+                "The job seeker is inquiring about the salary for the position.",
+                "The job seeker is expecting a compensation of around 140k."
+            ],
+            "recruiter": [
+                "- The company offers competitive compensation for qualified candidates.",
+                "- The salary is determined based on the candidate's experience, skills, and other relevant qualifications.",
+                "- The company provides a comprehensive benefits package including health, dental, and vision insurance.",
+                "- The company offers retirement plans as part of its benefits package.",
+                "- The company aims to ensure its employees feel valued and are compensated fairly for their work.",
+                "- The company is open to discussing salary expectations to reach a mutually beneficial agreement.",
+                "- The company offers a competitive salary that is commensurate with the market rate for a software engineer.",
+                "- The company provides a comprehensive benefits package, which includes health, dental, and vision insurance.",
+                "- The company offers retirement plans as part of their benefits package.",
+                "- The company believes in investing in their employees' overall well-being and career growth.",
+                "- The company is open to discussing a broader compensation package to make the employee feel valued and fairly compensated."
+            ]
+        },
+        "messages": [
+            {
+                "role": "job_seeker",
+                "content": "what salary can you offer?"
+            },
+            {
+                "role": "recruiter",
+                "content": "I appreciate your interest in the position. As per our company policy, I'm unable to disclose the exact salary range. However, rest assured that we offer competitive compensation for qualified candidates. Your salary will be determined based on your experience, skills, and other relevant qualifications. This will include a comprehensive benefits package including health, dental, and vision insurance, retirement plans, and other perks. We aim to ensure our employees feel valued and are compensated fairly for their work. Would you be open to discussing your expectations so we can work towards a mutually beneficial agreement?"
+            },
+            {
+                "role": "job_seeker",
+                "content": "I am looking around 140k"
+            },
+            {
+                "role": "recruiter",
+                "content": "I appreciate your transparency about your salary expectations. While that figure is outside of the range we typically offer for this position, we value your skills and experience. We do offer a competitive salary that is commensurate with the market rate for a software engineer, and we can also discuss a comprehensive benefits package, which includes health, dental, and vision insurance, retirement plans, and other perks. \n\nIn addition to the base salary, it's worth considering other elements of the compensation package that can add significant value. We truly believe in investing in our employees' overall well-being and career growth. \n\nWould you be open to discussing further the broader compensation package that we can offer you? It's important to us to find a solution that will make you feel valued and fairly compensated for your work."
+            }
+        ]
+    },
+    "2d5a7aef-a92d-47a0-834c-cdc90af687dd": {
+        "session_id": "2d5a7aef-a92d-47a0-834c-cdc90af687dd",
+        "role": "job_seeker",
+        "job_title": "software engineer",
+        "seeker_range": {
+            "min": 100000.0,
+            "target": 145000.0,
+            "max": 159500.0
+        },
+        "recruiter_range": {
+            "min": 82833.35247405298,
+            "max": 103541.69059256621
+        },
+        "facts": {
+            "job_seeker": [
+                "The job seeker is inquiring about the salary for the position.",
+                "The job seeker is expecting a compensation of 150k."
+            ],
+            "recruiter": [
+                "- The salary for the software engineer position is competitive.",
+                "- The salary is dependent on the candidate's qualifications and experience.",
+                "- The company ensures that the salary aligns with industry standards.",
+                "- The job seeker's expected salary is higher than the company's range.",
+                "- The company offers competitive compensation based on skills and experience.",
+                "- The company is open to discussing the salary further during the interview."
+            ]
+        },
+        "messages": [
+            {
+                "role": "job_seeker",
+                "content": "what salary can you offer?"
+            },
+            {
+                "role": "recruiter",
+                "content": "The salary for the software engineer position is competitive and dependent on your qualifications and experience. We ensure it aligns with industry standards."
+            },
+            {
+                "role": "job_seeker",
+                "content": "i am look at 150k"
+            },
+            {
+                "role": "recruiter",
+                "content": "While your expected salary is higher than our range, we offer competitive compensation based on skills and experience. We can certainly discuss this further during the interview."
+            }
+        ]
+    },
+    "f0b66a96-6883-442a-8e0a-7d62945628eb": {
+        "session_id": "f0b66a96-6883-442a-8e0a-7d62945628eb",
+        "role": "job_seeker",
+        "job_title": "software engineer",
+        "seeker_range": {
+            "min": 67000.0,
+            "target": 130000.0,
+            "max": 143000.0
+        },
+        "recruiter_range": {
+            "min": 101055.70498653919,
+            "max": 126319.63123317398
+        },
+        "facts": {
+            "job_seeker": [
+                "The job seeker is inquiring about the salary for the position.",
+                "The job seeker is expecting a compensation of 150k.",
+                "The job seeker's compensation expectation is $145,000.",
+                "The message \"yes\" does not provide any factual information about the job seeker's experience, skills, education, achievements, current situation, preferences, or compensation expectations."
+            ],
+            "recruiter": [
+                "- The salary for the position is competitive.",
+                "- The salary depends on the candidate's experience and skills.",
+                "- The recruiter is asking for the candidate's current salary and expectations.",
+                "- The company strives to provide competitive compensation.",
+                "- The job seeker's compensation expectation is slightly above the company's planned range.",
+                "- The company is open to discussing a compensation package that includes benefits and bonuses.",
+                "The recruiter mentions that the job seeker's compensation expectations are higher than their range. The recruiter suggests considering a competitive package that includes benefits and bonuses.",
+                "The recruiter is open to discussing a salary that falls within their budget. The company offers a competitive benefits and bonuses package."
+            ]
+        },
+        "messages": [
+            {
+                "role": "job_seeker",
+                "content": "what salary can you offer?"
+            },
+            {
+                "role": "recruiter",
+                "content": "The salary for this position is competitive and depends on the candidate's experience and skills. Could you please share your current salary and expectations?"
+            },
+            {
+                "role": "job_seeker",
+                "content": "i am looking at 150k"
+            },
+            {
+                "role": "recruiter",
+                "content": "While we strive to provide competitive compensation, your expectation is slightly above our planned range. However, we can discuss a package that includes benefits and bonuses."
+            },
+            {
+                "role": "job_seeker",
+                "content": "how about 145k?"
+            },
+            {
+                "role": "recruiter",
+                "content": "I understand your expectations, but it's a bit higher than our range. Let's consider a competitive package that includes benefits and bonuses. Would that work for you?"
+            },
+            {
+                "role": "job_seeker",
+                "content": "yes"
+            },
+            {
+                "role": "recruiter",
+                "content": "I appreciate your flexibility. Let's discuss a salary that falls within our budget, along with a competitive benefits and bonuses package."
+            }
+        ]
+    },
+    "044e5da0-9eed-48ab-91da-dadf3bf306ac": {
+        "session_id": "044e5da0-9eed-48ab-91da-dadf3bf306ac",
+        "role": "job_seeker",
+        "job_title": "software engineer",
+        "seeker_range": {
+            "min": 80000.0,
+            "target": 130000.0,
+            "max": 143000.0
+        },
+        "recruiter_range": {
+            "min": 84456.54337152687,
+            "max": 105570.67921440859
+        },
+        "facts": {
+            "job_seeker": [
+                "The job seeker is inquiring about the yearly salary for the position.",
+                "The job seeker is expecting a compensation of 140k."
+            ],
+            "recruiter": [
+                "- The salary for the position is competitive and based on experience and skills.",
+                "- The recruiter cannot provide a specific salary number at the moment.",
+                "- The salary is within the industry standards.",
+                "- The recruiter is asking for the job seeker's salary expectations.",
+                "- The salary for the position is generally lower than the job seeker's current expectation.",
+                "- The company offers a competitive package along with great benefits.",
+                "- The recruiter is open to negotiation regarding the salary."
+            ]
+        },
+        "messages": [
+            {
+                "role": "job_seeker",
+                "content": "what yearly salary can you offer?"
+            },
+            {
+                "role": "recruiter",
+                "content": "The salary for this position is competitive and based on experience and skills. While I can't provide a specific number at the moment, I assure you it's within the industry standards. Could you please share your salary expectations so we can discuss it further?"
+            },
+            {
+                "role": "job_seeker",
+                "content": "I am looking at 140k"
+            },
+            {
+                "role": "recruiter",
+                "content": "I understand your expectations. However, the salary for this position is generally lower than your current expectation. I assure you, we offer a competitive package along with great benefits. Are you open for negotiation?"
+            }
+        ]
+    },
+    "eec7bb2d-0fa6-4894-b01c-79a8cbfdb5b4": {
+        "session_id": "eec7bb2d-0fa6-4894-b01c-79a8cbfdb5b4",
+        "role": "job_seeker",
+        "job_title": "software engineer",
+        "seeker_range": {
+            "min": 130000.0,
+            "target": 180000.0,
+            "max": 198000.00000000003
+        },
+        "recruiter_range": {
+            "min": 104000,
+            "max": 297000
+        },
+        "facts": {
+            "job_seeker": [
+                "The job seeker is inquiring about the yearly salary for the position.",
+                "The job seeker is expecting a compensation of $150,000 or more.",
+                "The job seeker has a competing job offer with a salary of 145k.",
+                "The job seeker expects a compensation of 150k.",
+                "The message \"yes\" does not provide any factual information about the job seeker's experience, skills, education, achievements, current situation, preferences, or compensation expectations."
+            ],
+            "recruiter": [
+                "- The salary for the position is competitive.",
+                "- The salary depends on the candidate's skills, experience, and previous salary history.",
+                "- The recruiter is asking for the candidate's salary expectations.",
+                "The company is committed to offering a competitive salary that reflects a candidate's experience and skills. The recruiter is open to continuing the conversation to find a mutually agreeable salary figure.",
+                "- The company values the job seeker's skills and experience.",
+                "- The company is willing to match the job seeker's competing offer.",
+                "- The company is open to discussing additional benefits.",
+                "The recruiter appreciates the job seeker's transparency about their salary expectation. The recruiter can offer the job seeker a salary of $150,000 based on their skills and experience. The recruiter is asking if this salary meets the job seeker's expectations.",
+                "The recruiter has reached an agreement with the job seeker. They are ready to proceed with the next steps in the hiring process. The job seeker has been welcomed aboard."
+            ]
+        },
+        "messages": [
+            {
+                "role": "job_seeker",
+                "content": "what yearly salary can you offer?"
+            },
+            {
+                "role": "recruiter",
+                "content": "The salary for this position is competitive and depends on the candidate's skills, experience, and previous salary history. Could you please share your salary expectations and we can discuss it from there?"
+            },
+            {
+                "role": "job_seeker",
+                "content": "I am looking at 150k+"
+            },
+            {
+                "role": "recruiter",
+                "content": "That's definitely within the realm of possibility. We're committed to offering a competitive salary that reflects a candidate's experience and skills. Let's continue the conversation and see if we can find a mutually agreeable figure."
+            },
+            {
+                "role": "job_seeker",
+                "content": "I also ahve a competing offer at 145k"
+            },
+            {
+                "role": "recruiter",
+                "content": "That's good to know. We value your skills and experience and certainly want to remain competitive. We could certainly match your competing offer and discuss additional benefits. Would that be satisfactory for you?"
+            },
+            {
+                "role": "job_seeker",
+                "content": "i would liek 150k"
+            },
+            {
+                "role": "recruiter",
+                "content": "We appreciate your transparency about your salary expectation. We can certainly offer you $150,000, considering your skills and experience. Does this meet your expectation?"
+            },
+            {
+                "role": "job_seeker",
+                "content": "yes"
+            },
+            {
+                "role": "recruiter",
+                "content": "Great! I'm glad we could reach an agreement. Let's proceed with the next steps in the hiring process. Welcome aboard!"
+            }
+        ]
+    }
+}
