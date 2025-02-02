@@ -111,11 +111,6 @@ When adding this project to your resume, highlight:
 - **Designed a WebSocket-based communication system** for live AI-to-user interactions.
 - **Implemented lightweight JSON file storage** to track negotiation sessions and user inputs.
 
----
-
-## **📖 Example Resume Description**
-> **AI Salary Negotiation Bot**  
-> Developed a full-stack web application to simulate salary negotiations using GPT-4. Designed dual AI agents (job seeker and recruiter roles) to provide real-time negotiation assistance. Built a React-based frontend integrated with a FastAPI backend via WebSockets, enabling live interaction between the user and AI agents. Implemented a lightweight JSON-based storage system for managing negotiation session data without a database.
 
 ---
 
