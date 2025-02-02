@@ -104,16 +104,6 @@ salary-negotiation-bot/
 
 ---
 
-## **💡 Key Features to Highlight on Your Resume**
-When adding this project to your resume, highlight:
-- **Built a real-time, full-stack AI application** using React.js and FastAPI.
-- **Integrated GPT-4** to simulate complex salary negotiation scenarios with dual AI agents.
-- **Designed a WebSocket-based communication system** for live AI-to-user interactions.
-- **Implemented lightweight JSON file storage** to track negotiation sessions and user inputs.
-
-
----
-
 ## **📜 License**
 This project is licensed under the MIT License. Feel free to use, modify, and distribute.
 
