@@ -7,7 +7,7 @@ from typing import Dict
 
 # Load OpenAI API key
 load_dotenv()
-with open('/Users/zoey2022mac/study/devs/negociation/key.json', 'r') as file:
+with open('negociation/key.json', 'r') as file:
     key_data = json.load(file)
 api_key = key_data['key']
 
